@@ -34,6 +34,5 @@ namespace WhiteLagoon.Domain.Entities
 
         [NotMapped]
         public bool IsAvailable { get; set; } = true;
-
     }
 }
